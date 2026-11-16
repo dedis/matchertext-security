@@ -1,0 +1,9 @@
+[submodule "sqlite"]
+	path = sqlite
+	url = https://github.com/AntoineBastide47/sqlite.git
+[submodule "parse5"]
+	path = parse5
+	url = https://github.com/dedis/matchertex-parse5
+[submodule "archive"]
+	path = archive
+	url = https://github.com/dedis/matchertext-archive
